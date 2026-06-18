@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de melancolía
+
+This log tracks the cryptographic history and versioning for the song **Piel de melancolía** (piel-de-melancolia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:07:13.096883 | `v1` | `2a1e242da8826bcdf06e5b24cbef13220513ecb372cda04cc50fee66816f2eac` | `ee352f2191495a23c20017872f4aaaefcf73226bf48512299e10eba866be0434` | `2026-06-18_piel-de-melancolia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
