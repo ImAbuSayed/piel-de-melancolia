@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-melancolia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel de melancolía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-melancolia/) |
+| **Get License** | [Get License For Piel de melancolía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-melancolia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche es tuya y la calle lo sabe
+> Quiero ser el dueño de tu cuerpo y de la llave
+> Pidiendo a gritos que la música no acabe
+> Bailando en lo oscuro, quiero que mi piel te grabe
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
